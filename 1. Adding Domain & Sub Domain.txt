@@ -1,0 +1,33 @@
+
+
+Step:1 go to this directory 
+------
+C:\Windows\System32\drivers\etc
+
+Step:2 Open "hosts" file with admin access
+------ 
+
+Step:3 Add your domain/sub domain details at the bottom fo the file; Like this:
+------
+127.0.0.1       yourdomain.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
